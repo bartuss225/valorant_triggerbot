@@ -1,0 +1,10 @@
+{
+    "trigger_hotkey": "0xA0",
+    "color_tolerance": 70,
+    "toggle": false,
+    "toggle_trigger_hotkey": "f10",
+    "fov": 3,
+    "num_of_shots": 1,
+    "delay": 0,
+    "color": "purple"
+}
