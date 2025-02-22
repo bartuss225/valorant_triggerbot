@@ -4,7 +4,7 @@ The program will create the config.
 
 To buy join on discord: https://discord.gg/xaS5NDW8eP
 
-# **Important this is normal to appear. It is just a bug that changes nothing**
+# **Important!!! This is normal to appear. It is just a bug that changes nothing**
 
 ``Exception ignored in: <function _ProactorBasePipeTransport.__del__ at 0x0000016770EA2430>``
 
